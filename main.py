@@ -20,10 +20,9 @@ while True:
                 print("Too Low! Try again.")
         else:
                 print("Correct! The secret number was",secret_number)
-                break # This stops the loop immediately because the game is over
+                break
 print("Thank you for playing")
 
-## Guess the Scramble word game ##
 import random
 
 # The list of words
