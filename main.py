@@ -1,5 +1,4 @@
 # TASK - 4
-from sqlite3 import IntegrityError
 
 # 1. Even and Odd list
 
